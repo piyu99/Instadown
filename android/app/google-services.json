@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9825859194",
+    "firebase_url": "https://instadown-84929.firebaseio.com",
+    "project_id": "instadown-84929",
+    "storage_bucket": "instadown-84929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9825859194:android:01a6c928b0d435d6062dc3",
+        "android_client_info": {
+          "package_name": "com.example.instadown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9825859194-mv518qspd0ebrim0evib95n06tks6ntd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instadown",
+            "certificate_hash": "5353fdd60da12646f40334aa9edd7020d20bc639"
+          }
+        },
+        {
+          "client_id": "9825859194-hueubfkocaehf6ned0spque12knag4lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fecNyQt3QJrzc-mHLChaiDgP7MseYh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9825859194-hueubfkocaehf6ned0spque12knag4lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
